@@ -34,52 +34,52 @@ The below two admonition blocks explain the 50-page submission limitation and ho
     Insert [your answer](./objectives/o5.md) here.
 
 !!! success "6. Luggage Lock - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o6.md) here.
 
 !!! success "7. Linux PrivEsc - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o7.md) here.
 
 !!! success "8. Faster Lock Combination - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o8.md) here.
 
 !!! success "9. Game Cartridges: Vol 1 - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o9.md) here.
 
 !!! success "10. Game Cartridges: Vol 2 - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o10.md) here.
 
 !!! success "11. Game Cartridges: Vol 3 - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o11.md) here.
 
 !!! success "12. Na'an - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o12.md) here.
 
 !!! success "13. KQL Kraken Hunt - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o13.md) here.
 
 !!! success "14. Phish Detection Agency - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o14.md) here.
 
 !!! success "15. Hashcat - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o15.md) here.
 
 !!! success "16. Elf Hunt - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o16.md) here.
 
 !!! success "17. Certificate SSHenanigans - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o17.md) here.
 
 !!! success "18. The Captain's Comms - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o18.md) here.
 
 !!! success "19. Space Island Door Access Speaker - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o19.md) here.
 
 !!! success "20. BONUS! Fishing Guide - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o20.md) here.
 
 !!! success "21. BONUS! Fishing Mastery - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Insert [your answer](./objectives/o21.md) here.
 
 ## Conclusion
 
