@@ -12,7 +12,7 @@ theme:
     # logo: fontawesome/regular/snowflake
     # logo: fontawesome/solid/sleigh
     # logo: fontawesome/solid/candy-cane
-    logo: fontawesome/solid/ship
+    logo: fontawesome/solid/sailboat
   name: material
   favicon: img/misc/favicon.ico
   features:
@@ -47,7 +47,7 @@ theme:
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: teal
+      primary: red
       accent: teal
       toggle:
         icon: material/weather-sunny
