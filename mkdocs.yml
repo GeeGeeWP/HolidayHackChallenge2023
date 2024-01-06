@@ -12,7 +12,7 @@ theme:
     # logo: fontawesome/regular/snowflake
     # logo: fontawesome/solid/sleigh
     # logo: fontawesome/solid/candy-cane
-    logo: fontawesome/solid/tree
+    logo: fontawesome/solid/ship
   name: material
   favicon: img/misc/favicon.ico
   features:
@@ -40,7 +40,7 @@ theme:
     # green, light green, lime, yellow, amber, orange, and deep orange.
     # Palette toggle for light mode
     - scheme: default
-      primary: teal
+      primary: red
       accent: teal
       toggle:
         icon: material/weather-night 
@@ -100,30 +100,35 @@ nav:
 # The 'nav' section defines the content of the sidebar navigation.
 - Welcome: 'index.md'
 - Objectives:
-  - Section 1:
+  - Christmas Island:
     - Holiday Hack Orientation: 'objectives/o1.md'
     - Snowball Fight: 'objectives/o2.md'
     - Linux 101: 'objectives/o3.md'
     - Reportinator: 'objectives/o4.md'
-    - Azure 101: 'objectives/o5.md'   
+    - Azure 101: 'objectives/o5.md'
+  - Island of Misfit Toys:  
     - Luggage Lock: 'objectives/o6.md'
     - Linux PrivEsc: 'objectives/o7.md'
     - Faster Lock Combination: 'objectives/o8.md'
-  - Game Cartridges:
-    - Game Cartridges Vol 1: 'objectives/o9.md'
-    - Game Cartridges Vol 2: 'objectives/o10.md'
-    - Game Cartridges Vol 3: 'objectives/o11.md'
-  - Section 4:
+  - Film Noir Island:
     - Na'an: 'objectives/o12.md'
     - KQL Kraken Hunt: 'objectives/o13.md'
     - Phish Detection Agency: 'objectives/o14.md'
     - Hashcat: 'objectives/o15.md'
+  - Pixel Island:
     - Elf Hunt: 'objectives/o16.md'
     - Certificate SSHenanigans: 'objectives/o17.md'
+  - Steampunk Island:
     - The Captain's Comms: 'objectives/o18.md'
+  - Space Island:
     - Space Island Door Access Speaker: 'objectives/o19.md'
+
+- Extras:
   - Fishing:
     - BONUS! Fishing Guide: 'objectives/o20.md'
     - BONUS! Fishing Mastery: 'objectives/o21.md'
-- Extras:
+  - Game Cartridges:
+    - Game Cartridges Vol 1: 'objectives/o9.md'
+    - Game Cartridges Vol 2: 'objectives/o10.md'
+    - Game Cartridges Vol 3: 'objectives/o11.md'
   - Easter Eggs: 'easter_eggs.md'
